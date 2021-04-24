@@ -1,4 +1,4 @@
-name: Tambapuy
+name: Tambapuya
 on: [push, pull_request]
 jobs:
   build:
